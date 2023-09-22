@@ -1,10 +1,9 @@
-# Attendance_system with Facial Recognisation and QR Code
+# Attendance_system with Facial Recognisation
 
 ## Overview
-This Python web-application that allows users to perform QR code scanning and facial recognition to generate the attendance and it can scan n number of faces or qr at a single time and genrates one excel sheet and provides it in the local storage.
+This Python web-application that allows users to perform facial recognition to generate the attendance and it can scan n number of faces at a single time and genrates one excel sheet and provides it in the local storage.
 
 ## Features
-- **QR Code Scanning:** Users can use their device's camera to scan QR codes.
 - **Facial Recognition:** The application can recognize and authenticate users' faces.
   
 ## Installation
@@ -15,7 +14,7 @@ This Python web-application that allows users to perform QR code scanning and fa
    
 ## Usage
 1. Run the application:
-2. Choose the QR code scanning or facial recognition feature.
+2. Choose facial recognition feature.
 3. Follow the on-screen instructions to complete the process.
 4. The Attendance file will be generated in the specified directory.
 
