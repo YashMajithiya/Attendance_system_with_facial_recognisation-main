@@ -13,6 +13,15 @@ This Python web-application that allows users to perform QR code scanning and fa
 3. Download the python Latest version
 4. Run the Main.py File
    
+## Usage
+1. Run the application:
+2. Choose the QR code scanning or facial recognition feature.
+3. Follow the on-screen instructions to complete the process.
+4. The Attendance file will be generated in the specified directory.
+
+## Dependencies
+1. OpenCv
+
 ## References
 1. Python: https://www.python.org/doc/
 2. OpenCv: https://opencv.org/
